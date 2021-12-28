@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-Fall-teaching-2
+permalink: /teaching/2020-fall-teaching-2
 venue: "UCLA, Department of Biostatistics"
 date: 2020-09
 location: "LA, CA"
