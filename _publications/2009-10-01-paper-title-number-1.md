@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Dual Path Structural Contrastive Embeddings for Learning Novel Objects"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about few-shot learning.'
+date: 2021-12-23
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2112.12359'
+citation: 'Elvis, Cui. (2021). &quot;Dual Path Structural Contrastive Embeddings for Learning Novel Objects.&quot; <i>arXiv:2112.12359</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Learning novel classes from a very few labeled samples has attracted increasing attention in machine learning areas. Recent research on either meta-learning based or transfer-learning based paradigm demonstrates that gaining information on a good feature space can be an effective solution to achieve favorable performance on few-shot tasks. In this paper, we propose a simple but effective paradigm that decouples the tasks of learning feature representations and classifiers and only learns the feature embedding architecture from base classes via the typical transfer-learning training strategy. To maintain both the generalization ability across base and novel classes and discrimination ability within each class, we propose a dual path feature learning scheme that effectively combines structural similarity with contrastive feature construction. In this way, both inner-class alignment and inter-class uniformity can be well balanced, and result in improved performance. Experiments on three popular benchmarks show that when incorporated with a simple prototype based classifier, our method can still achieve promising results for both standard and generalized few-shot problems in either an inductive or transductive inference setting.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2112.12359)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bingbin Li, Elvis Han Cui, Yanan Li, Donghui Wang, Weng Kee Wong. (2021). &quot;Dual Path Structural Contrastive Embeddings for Learning Novel Objects.&quot; <i>arXiv:2112.12359</i>.
