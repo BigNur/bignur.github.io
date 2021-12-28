@@ -1,10 +1,10 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+teaching_type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
-venue: "UCLA, Department of Biostatistics"
-date: 2020-03
+institution: "UCLA, Department of Biostatistics"
+date: 2020-03-01
 location: "LA, CA"
 ---
 
