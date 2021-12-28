@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "2020 Fall TA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-2
@@ -8,27 +8,12 @@ date: 2020-09-01
 location: "LA, CA"
 ---
 
-Biostatistics 100 A: Introduction to Biostats using Stata.
+TA for Biostatistics 100 A and 203 A.
 
-Biostatistics 203 A: Data Management and Analysis using SAS and R.
-
-
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
-
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Biostatistics 100 A:
 ======
+Introduction to Biostats using Stata.
 
-Heading 2
+Biostatistics 203 A: 
 ======
-
-Heading 3
-======
+Data Management and Analysis using SAS and R.
