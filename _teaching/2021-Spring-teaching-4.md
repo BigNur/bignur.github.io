@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience"
+title: "2021 Spring"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-Spring-teaching-4
 venue: "UCLA, Department of Biostatistics"
-date: 2021-04
+date: 2021-04-01
 location: "LA, CA"
 ---
 
-Biostatistics 241: Spatial Statistics Modeling.
+TA for Biostatistics 241: Spatial Statistics Modeling.
