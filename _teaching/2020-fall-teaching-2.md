@@ -1,5 +1,5 @@
 ---
-title: "Biostatistics 100 A: Introduction to Biostats using Stata."
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-2
